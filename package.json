@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/intljusticemission/react-big-calendar.git"
+    "url": "git+https://github.com/szhou69/react-big-calendar.git"
   },
   "license": "MIT",
   "main": "lib/index.js",
